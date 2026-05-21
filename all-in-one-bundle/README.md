@@ -6,3 +6,9 @@ modular accessories, organized and ready for your build plates
 ## Files
 
 - [Bambu Studio .3mf file](all-in-one-bundle.3mf)
+
+## Preview
+
+### 3D
+
+<img src="materials/3d.PNG" alt="Shelf mounts" width="400">
