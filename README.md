@@ -19,6 +19,7 @@ additions. I also welcome your ideas and proposals for future expansions
 ## Links
 
 - [Maker World](https://makerworld.com/en/models/2803112-tds-tubed-desk-shelf#profileId-3118631)
+- [Printables](https://www.printables.com/model/1728938-tubed-desk-shelf-tds)
 
 ## Ecosystem
 
