@@ -26,13 +26,14 @@ additions. I also welcome your ideas and proposals for future expansions
     - [Tubed Desk Shelf](tubed-desk-shelf)
 - **Accessories**
     - [Intermediate Supports](intermediate-supports)
-    - [Headphones stand](headphones-stand)
+    - [Headphones Stand](headphones-stand)
     - [Tray](tray)
-    - [Phone stand](phone-stand)
-    - [Notebooks holder](notebook-holder)
-    - [Cables holder](cables-holder)
-    - [Headphones stand base](headphones-stand-base)
+    - [Phone Stand](phone-stand)
+    - [Notebooks Holder](notebook-holder)
+    - [Cables Holder](cables-holder)
+    - [Headphones Stand Base](headphones-stand-base)
     - [dev kit](dev-kit)
+    - [All-in-one Bundle](all-in-one-bundle)
 
 ## Specs
 
